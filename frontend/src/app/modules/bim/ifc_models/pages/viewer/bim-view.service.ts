@@ -50,14 +50,14 @@ export class BimViewService implements OnDestroy {
     list: this.I18n.t('js.views.card'),
     viewer: this.I18n.t('js.ifc_models.views.viewer'),
     splitList: this.I18n.t('js.ifc_models.views.split'),
-    splitCards: this.I18n.t('js.ifc_models.views.split-cards'),
+    splitCards: this.I18n.t('js.ifc_models.views.split_cards'),
     table: this.I18n.t('js.views.list'),
   };
 
   public icon:any = {
     list: 'icon-view-card',
     viewer: 'icon-view-model',
-    splitList: 'icon-view-split2',
+    splitList: 'icon-view-split3',
     splitCards: 'icon-view-split2',
     table: 'icon-view-list',
   };
