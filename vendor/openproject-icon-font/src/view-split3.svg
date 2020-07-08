@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg viewBox="0 0 18 11" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs>
+<path id="a" d="m478.36 119.33-222.36-119.33-222.36 119.33 222.36 123.57 222.36-123.57z"/>
+<path id="b" d="m291.41 512 212.45-113.66v-212.45l-212.45 118.26v207.85z"/>
+<path id="c" d="m8.14 185.89v212.45l212.45 113.66v-207.85l-212.45-118.26z"/>
+</defs>
+<g stroke="null">
+<g transform="matrix(.018226 0 0 .019447 -21.46 -7.4178)" stroke="null">
+<g stroke="null">
+<use x="1185.355556" y="401.41609" fill="#110303" xlink:href="#a"/>
+<use x="1185.355556" y="401.41609" fill="#110303" fill-opacity="0" stroke="#000000" stroke-opacity="0" xlink:href="#a"/>
+<use x="1185.355556" y="401.41609" fill="#110303" xlink:href="#b"/>
+<use x="1185.355556" y="401.41609" fill="#110303" fill-opacity="0" stroke="#000000" stroke-opacity="0" xlink:href="#b"/>
+<use x="1185.355556" y="401.41609" fill="#110303" xlink:href="#c"/>
+<use x="1185.355556" y="401.41609" fill="#110303" fill-opacity="0" stroke="#000000" stroke-opacity="0" xlink:href="#c"/>
+</g>
+</g>
+<g fill="null" fill-opacity="null" stroke-opacity="null" stroke-width="null">
+<rect x="10.33" y="1.2112" width="6.9743" height="1.2032"/>
+<rect x="10.33" y="2.9235" width="6.9743" height="1.2032"/>
+<rect x="10.359" y="4.6357" width="6.9743" height="1.2032"/>
+<rect x="10.359" y="6.3479" width="6.9743" height="1.2032"/>
+<rect x="10.359" y="8.1527" width="6.9743" height="1.2032"/>
+</g>
+</g>
+</svg>
